@@ -1,0 +1,9 @@
+Building Warp
+
+See doc/readme-qt.rst for instructions on building Warp QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Warp.
+
+See doc/build-*.txt for instructions on building Warpd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Warp.
